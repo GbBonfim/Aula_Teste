@@ -9,6 +9,21 @@ P{
     font-size: 20px;
 }
 
-logo-git{
-    text-align: center;
+#bolinha{
+    height: 100px; /* altura */
+    width: 100px; /* comprimento */
+    background-color: black;
+    border-radius: 100%;
+     /* margin: 0 auto; */
+     padding: 0 auto;
 }
+
+#faixa{
+    height: 200px;
+    width: auto;
+    border: 1px solid black; /* espessura, tipo e cor */
+    
+
+
+}
+
