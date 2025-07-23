@@ -14,8 +14,8 @@ P{
     width: 100px; /* comprimento */
     background-color: black;
     border-radius: 100%;
-     /* margin: 0 auto; */
-     padding: 0 auto;
+     margin: 0 auto; 
+    
 }
 
 #faixa{
